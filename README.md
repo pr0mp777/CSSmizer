@@ -1,5 +1,7 @@
 # CSSmizer
 
+![image](https://github.com/user-attachments/assets/e52587c3-b900-4402-ae5f-ac20170f2fe9)
+
 ## A Simple Tool for CSS Optimization
 
 **CSSmizer** is a command-line tool I created to help optimize my CSS files and streamline my workflow. It reduces file sizes and improves loading speeds, making my daily web development tasks easier.

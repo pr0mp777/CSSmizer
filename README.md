@@ -1,7 +1,6 @@
 # CSSmizer-cli
 
-**CSSmizer-cli** is a **simple, lightweight Python CLI tool** to **minify, optimize, and combine CSS files**.  
-It helps developers reduce CSS file sizes and improve **website performance**, directly from the command line.
+**CSSmizer-cli** is a **simple, lightweight Python CLI tool** to **minify, optimize, and combine CSS files**. It helps developers reduce CSS file sizes and improve **website performance**, directly from the command line.
 
 ## Features
 
@@ -41,14 +40,14 @@ python3 cssmizer-cli.py path/to/test1.css path/to/test2.css
 
 ## Support & Feedback
 
-If you find CSSmizer-cli useful, you can support the project in several ways:  
+If you find CSSmizer-cli useful, you can support this project in several ways:  
  
-- ⭐ **Give this project a star** on GitHub  
-- 👤 **Follow my GitHub profile** to stay updated on new tools and repositories
-- 🌐 **Visit my website** to explore cybersecurity content and new projects: [htbwalkthrough.com](https://htbwalkthrough.com/) 
+- ⭐ **Give it a star** on GitHub  
+- 👤 **Follow me on GitHub** to stay updated on new tools and repositories
 - 🎮 **Support me** to help fund future projects and content creation: [Buy Me a Coffee☕](https://www.buymeacoffee.com/pr0mp7)  
 
 Your support allows me to continue developing useful tools and sharing knowledge with the community.  
 
-If you encounter any bugs, issues, or have suggestions for improvement, please **open a new issue** — your feedback is highly appreciated!
+If you encounter any bugs, issues, or have suggestions for improvement, please **open a new issue** — your feedback is highly appreciated.
 
+Thank you for using this tool!
